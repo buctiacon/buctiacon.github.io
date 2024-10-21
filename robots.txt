@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://buctiacon.github.io/buctiacon.txt.gz
+Sitemap: https://buctiacon.github.io/app/buctiacon.txt.gz
+Sitemap: https://buctiacon.github.io/assets/buctiacon.txt.gz
+Sitemap: https://buctiacon.github.io/css/buctiacon.txt.gz
+Sitemap: https://buctiacon.github.io/includes/buctiacon.txt.gz
+Sitemap: https://buctiacon.github.io/item/buctiacon.txt.gz
+Sitemap: https://buctiacon.github.io/src/buctiacon.txt.gz
